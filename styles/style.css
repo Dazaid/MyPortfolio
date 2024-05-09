@@ -878,3 +878,6 @@ svg{
 #wisdom{
     display: none !important;
 }
+#nav-bar{
+    display: flex !important;
+}
